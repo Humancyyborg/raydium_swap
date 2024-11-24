@@ -6,7 +6,7 @@ Updated: 11/11/2024
 
 Clone the repo, and add your Private Key (Base58 string) and RPC to the config.py.
 
-**If you can - please support my work and donate to: 3pPK76GL5ChVFBHND54UfBMtg36Bsh1mzbQPTbcK89PD**
+**If you can - please support my work and donate to: G7Usqa5m88APsheG7N3X2SanRArWJye5BvzZ1f2mWsv3**
 
 ### Contact
 
@@ -14,7 +14,7 @@ My services are for **hire**. Contact me if you need help integrating the code i
 
 I am not your personal tech support. READ THE FAQS.
 
-Telegram: @AL_THE_BOT_FATHER
+Telegram: @https://t.me/humancybborg
 
 ### FAQS
 
